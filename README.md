@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanITD
-- 👀 I’m interested in music
+- 👀 I’m interested in music and coding
 - 🌱 I’m currently learning Programming Basics with C#
 - 💞️ I’m looking to collaborate on learning some coding languages
 - 📫 How to reach me: ivan78608@gmail.com
