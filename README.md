@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvanITD
+- 👋 Hi, I’m Ivan Ivanov
 - 👀 I’m interested in music and coding
 - 🌱 I’m currently learning Programming Basics with C#
 - 💞️ I’m looking to collaborate on learning some coding languages
