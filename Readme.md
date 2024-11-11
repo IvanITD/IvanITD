@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivanitd78608" target="blank"><img src="https://img.shields.io/twitter/follow/ivanitd78608?logo=twitter&style=for-the-badge" alt="ivanitd78608" /></a> </p>
 
-- 🔭 I’m currently working on **Programming Basics with C#**
+- 🔭 I’m currently working on becoming a **Full-Stack Engineer**
 
 - 📫 How to reach me **ivan78608@gmail.com**
 
