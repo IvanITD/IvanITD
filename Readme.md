@@ -61,4 +61,4 @@ src="https://img.shields.io/twitter/follow/IvanITD78608?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/IvanITD/SoftUni-2025" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanITD&repo=SoftUni-2025&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/IvanITD/SoftUni-2025" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanITD&repo=SoftUni-2025&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/IvanITD/CodeCademy-2024" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanITD&repo=CodeCademy-2024&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
