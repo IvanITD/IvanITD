@@ -7,6 +7,27 @@ Aspiring Full-Stack & Game Developer | Creative Problem Solver | Building the As
 <h3>🌌 About Me</h3>
 <p>Hi, I’m <b>Ivan Ivanov</b>—a passionate creator who thrives at the intersection of <b>art and technology</b>. I’m an <b>aspiring Full-Stack & Game Developer</b>, bringing the same dedication and innovation I’ve honed as a <b>singer/songwriter</b> into the world of programming. My mission is to craft engaging, interactive experiences that inspire and connect people.</p>
 <p>By day, I’m immersed in the world of <b>music</b>, where I express myself as a <b>performer</b>, <b>songwriter</b>, <b>and multi-instrumentalist</b>. Through years of honing my craft in <b>guitar</b>, <b>drums</b>, <b>and piano</b>, I’ve learned the discipline and creativity that now drive my coding journey. By night, I channel this passion for artistry into code, transforming ideas into functional, imaginative projects.</p>
+<hr>
+<h3>🚀 What I’m Working On</h3>
+<ul>
+  <li>Pursuing a full-stack journey with <b>C#</b>, currently mastering <b>Programming Basics</b> at SoftUni.</li>
+  <li>Building my dream project, the <b>Astroverse</b>, combining technology and imagination to bring cosmic themes to life.</li>
+  <li>Sharing my progress on <a href="https://github.com/IvanITD" class="button">GitHub</a> and collaborating with like-minded developers.</li>
+</ul>
+<hr>
+<h3>🎮 My Vision</h3>
+<p>I believe in the power of stories and creativity to make technology more human. Whether it’s through <b>interactive games</b>, <b>innovative apps</b>, or crafting new experiences with code, I strive to bring an artistic lens to everything I build.</p>
+<hr>
+<h3>💡 Fun Facts About Me</h3>
+<ul>
+  <li>🌌 <b>Astronaut Fanatic:</b> Obsessed with astronaut themes and building the perfect Astro-related projects.</li>
+  <li>🎵 <b>Musical Roots:</b> I’ve performed live as a singer/songwriter and play guitar, drums, and piano.</li>
+  <li>🌍 <b>Multilingual Communicator:</b> Fluent in Bulgarian, Greek, and English.</li>
+</ul>
+<hr>
+⚡ Let’s Connect
+	•	GitHub: github.com/ivan
+	•	LinkedIn: linkedin.com/in/ivanivanov
 
 * 🌍  I'm based in Plovdiv, Bulgaria
 * ✉️  You can contact me at [ivanivanovofficial@icloud.com](mailto:ivanivanovofficial@icloud.com)
