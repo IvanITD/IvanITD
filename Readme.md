@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full-Stack & Game Developer | Creative Problem Solver | Building the Astroverse 🚀
 -------------------------------------------------------------------------------------------
 
-
+<h3>🌌 About Me</h3>
+<p>Hi, I’m <b>Ivan Ivanov</b>—a passionate creator who thrives at the intersection of <b>art and technology</b>. I’m an <b>aspiring Full-Stack & Game Developer</b>, bringing the same dedication and innovation I’ve honed as a <b>singer/songwriter</b> into the world of programming. My mission is to craft engaging, interactive experiences that inspire and connect people.</p>
+<p>By day, I’m immersed in the world of <b>music</b>, where I express myself as a <b>performer</b>, <b>songwriter</b>, <b>and multi-instrumentalist</b>. Through years of honing my craft in <b>guitar</b>, <b>drums</b>, <b>and piano</b>, I’ve learned the discipline and creativity that now drive my coding journey. By night, I channel this passion for artistry into code, transforming ideas into functional, imaginative projects.</p>
 
 * 🌍  I'm based in Plovdiv, Bulgaria
 * ✉️  You can contact me at [ivanivanovofficial@icloud.com](mailto:ivanivanovofficial@icloud.com)
