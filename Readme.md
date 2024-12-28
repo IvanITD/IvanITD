@@ -25,13 +25,13 @@ Aspiring Full-Stack & Game Developer | Creative Problem Solver | Building the As
   <li>🌍 <b>Multilingual Communicator:</b> Fluent in Bulgarian, Greek, and English.</li>
 </ul>
 <hr>
-⚡ Let’s Connect
-	•	GitHub: github.com/ivan
-	•	LinkedIn: linkedin.com/in/ivanivanov
-
-* 🌍  I'm based in Plovdiv, Bulgaria
-* ✉️  You can contact me at [ivanivanovofficial@icloud.com](mailto:ivanivanovofficial@icloud.com)
-
+<h3>⚡ Let’s Connect</h3>
+<ul>
+	<li>🌍  I'm based in Plovdiv, Bulgaria</li>
+	<li>🎯  LinkedIn: <a href="www.linkedin.com/in/ivanivanovofficial" class="button"><b>Ivan Ivanov</b></a></li>
+	<li>✉️  You can contact me at <a href="mailto:ivanivanovofficial@icloud.com" class="button">ivanivanovofficial@icloud.com</a></li>
+</ul>
+ 
 <a href="https://www.github.com/IvanITD" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IvanITD?logo=github&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a><a href="https://www.x.com/IvanITD78608" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/IvanITD78608?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a"
