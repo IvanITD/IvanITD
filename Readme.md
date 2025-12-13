@@ -51,6 +51,10 @@ src="https://img.shields.io/twitter/follow/IvanITD78608?logo=twitter&style=for-t
 
 ### Badges
 
+<b>Roadmap.sh</b>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/679e6643d7c9b4cc8b159b6d?variant=dark" alt="roadmap.sh"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/IvanITD"><img src="https://github-readme-stats.vercel.app/api?username=IvanITD&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="IvanITD's GitHub stats" /></a>
