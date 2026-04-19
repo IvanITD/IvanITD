@@ -28,7 +28,7 @@ Aspiring Full-Stack & Game Developer | Creative Problem Solver | Building the As
 <h3>⚡ Let’s Connect</h3>
 <ul>
 	<li>🌍  I'm based in Plovdiv, Bulgaria</li>
-	<li>🎯  LinkedIn: <a href="www.linkedin.com/in/ivanivanovofficial" class="button"><b>Ivan Ivanov</b></a></li>
+	<li>🎯  LinkedIn: <a href="https://www.linkedin.com/in/ivanivanovofficial" class="button"><b>Ivan Ivanov</b></a></li>
 	<li>✉️  You can contact me at <a href="mailto:ivanivanovofficial@icloud.com" class="button">ivanivanovofficial@icloud.com</a></li>
 </ul>
  
