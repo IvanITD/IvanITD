@@ -10,7 +10,7 @@ Aspiring Full-Stack & Game Developer | Creative Problem Solver | Building the As
 <hr>
 <h3>🚀 What I’m Working On</h3>
 <ul>
-  <li>Pursuing a full-stack journey with <b>C#</b>, currently mastering <b>Programming Basics</b> at SoftUni.</li>
+  <li>Pursuing a full-stack journey with <b>C#</b> and <b>JavaScript</b>, currently mastering <b>Programming Fundamentals</b> at SoftUni.</li>
   <li>Building my dream project, the <b>Astroverse</b>, combining technology and imagination to bring cosmic themes to life.</li>
   <li>Sharing my progress on <a href="https://github.com/IvanITD" class="button">GitHub</a> and collaborating with like-minded developers.</li>
 </ul>
