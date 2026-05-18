@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan Ivanov 👋
 
-🌌 **Aspiring Full-Stack & Game Developer** | Building the Astroverse
+🌌 **Full-Stack Developer** | Building the Astroverse
 
 I'm a creator at the intersection of art and technology. As a singer/songwriter and multi-instrumentalist (guitar, drums, piano), I bring the same creativity and discipline I've honed in music into software development. My goal is to craft interactive experiences that inspire and connect people.
 
