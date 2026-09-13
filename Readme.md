@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Ivan Ivanov — Music · Code · Astroverse" width="100%" />
+<img src="./assets/banner.png" alt="Ivan Ivanov — Music · Code · Astroverse" width="100%" />
 
 # Hi, I'm Ivan Ivanov <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=640&lines=Singer+%2F+songwriter+%C2%B7+multi-instrumentalist;Full-stack+%26+game+development;Shipping+apps+I+actually+use;Learning+in+public+at+SoftUni" alt="Typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=640&lines=Singer+%2F+songwriter+%C2%B7+multi-instrumentalist;JavaScript+full-stack;Shipping+apps+I+actually+use;Learning+in+public+at+SoftUni" alt="Typing tagline" />
 
 <br />
 
@@ -13,13 +13,13 @@
 [![Greek](https://img.shields.io/badge/EL-Greek-1e3a8a?style=for-the-badge&labelColor=0b1224)](#)
 [![English](https://img.shields.io/badge/EN-English-1e3a8a?style=for-the-badge&labelColor=0b1224)](#)
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 🌌 **Singer/songwriter** (guitar, drums, piano) writing software with the same ear I use for songs — structure, then the part that makes someone stay.
 
 On **SoftUni** toward JavaScript full-stack. I ship small apps I actually use.
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ### 💻 Tech I build with
 
@@ -39,7 +39,7 @@ On **SoftUni** toward JavaScript full-stack. I ship small apps I actually use.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ### 🚀 Featured work
 
@@ -74,7 +74,7 @@ until it felt like something I'd use.
 </tr>
 </table>
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ### 🎯 Right now
 
@@ -83,7 +83,7 @@ until it felt like something I'd use.
 | 🎓 **SoftUni** | [Programming Basics](https://github.com/IvanITD/SoftUni) done in C# & JavaScript · Fundamentals in progress · heading toward **JavaScript Full-Stack Developer** |
 | 🛠️ **Personal apps** | Shipping things I actually use — [Steam Game Picker](https://github.com/IvanITD/steam-game-picker) and [Todo](https://github.com/IvanITD/todo-app) |
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ### 📊 GitHub
 
@@ -98,7 +98,7 @@ until it felt like something I'd use.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/679e6643d7c9b4cc8b159b6d?variant=dark)](https://roadmap.sh)
 
-<img src="./assets/divider.svg" alt="" width="100%" />
+<img src="./assets/divider.png" alt="" width="100%" />
 
 ### 📬 Let's connect
 
