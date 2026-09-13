@@ -80,7 +80,7 @@ until it felt like something I'd use.
 
 | 🔥 Focus | What I'm doing |
 | :---: | --- |
-| 🎓 **SoftUni** | [Programming Basics](https://github.com/IvanITD/SoftUni) done in C# & JavaScript · Fundamentals in progress · heading toward **JavaScript Full-Stack Developer** |
+| 🎓 **SoftUni** | [Programming Basics](https://github.com/IvanITD/SoftUni/tree/main/1-Programming-Basics) and [Programming Fundamentals](https://github.com/IvanITD/SoftUni/tree/main/2-Programming-Fundamentals) done · currently on [JS Advanced](https://github.com/IvanITD/SoftUni/tree/main/3-JS-Advanced) · heading toward **JavaScript Full-Stack Developer** |
 | 🛠️ **Personal apps** | Shipping things I actually use — [Steam Game Picker](https://github.com/IvanITD/steam-game-picker) and [Todo](https://github.com/IvanITD/todo-app) |
 
 <img src="./assets/divider.png" alt="" width="100%" />
