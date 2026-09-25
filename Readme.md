@@ -74,6 +74,16 @@ until it felt like something I'd use.
 </tr>
 </table>
 
+<br />
+
+### 🏠 Personal Home Server
+
+A closed-lid Acer laptop that stores files, plays movies and music, blocks ads, and stays reachable away from home.
+
+[![Code](https://img.shields.io/badge/Source-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IvanITD/personal-home-server)
+
+`Proxmox` `Ubuntu` `Docker` `Pi-hole` `NetBird`
+
 <img src="./assets/divider.png" alt="" width="100%" />
 
 ### 🎯 Right now
